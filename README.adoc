@@ -15,7 +15,7 @@ image::https://circleci.com/gh/spring-cloud/spring-cloud-sleuth.svg?style=svg["C
 image::https://codecov.io/gh/spring-cloud/spring-cloud-sleuth/branch/{github-tag}/graph/badge.svg["codecov", link="https://codecov.io/gh/spring-cloud/spring-cloud-sleuth"]
 image::https://badges.gitter.im/spring-cloud/spring-cloud-sleuth.svg[Gitter, link="https://gitter.im/spring-cloud/spring-cloud-sleuth?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 
-== Spring Cloud Sleuth
+== Spring Cloud Sleuth（分布式调用追踪方案）
 
 Spring Cloud Sleuth is a distributed tracing tool for Spring Cloud. It borrows from https://research.google.com/pubs/pub36356.html[Dapper], https://github.com/openzipkin/zipkin[Zipkin], and https://htrace.incubator.apache.org/[HTrace].
 
